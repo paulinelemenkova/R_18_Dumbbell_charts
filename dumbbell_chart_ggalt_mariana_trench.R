@@ -1,3 +1,19 @@
+# ============================================================================
+# Dumbbell charts of Mariana Trench morphology in R (ggplot2 + ggalt)
+#
+# This script produced figures in the peer-reviewed article:
+#   Lemenkova, P. (2019). Statistical Analysis of the Mariana Trench
+#   Geomorphology Using R Programming Language.
+#   Geodesy and Cartography, 45(2), 57-84.
+#   DOI:      https://doi.org/10.3846/gac.2019.3785
+#   figshare: https://doi.org/10.6084/m9.figshare.9762860
+#   HAL:      https://hal.science/hal-02277500
+#   Zenodo:   https://zenodo.org/record/3385005
+#   SSRN:     http://ssrn.com/abstract=3447481
+#
+# Author: Polina Lemenkova  |  ORCID: 0000-0002-5759-1089
+# ============================================================================
+
 library(ggplot2) # используем данные библиотеки
 library(ggalt) # используем данные библиотеки
 
